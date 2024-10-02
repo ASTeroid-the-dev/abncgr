@@ -1,3 +1,5 @@
+<!-- credits to mystman12 for the bb+ placeholder wall texture, which is used for the logo -->
+
 # ABNCG: Remastered
 This is where she makes a mod.
 
